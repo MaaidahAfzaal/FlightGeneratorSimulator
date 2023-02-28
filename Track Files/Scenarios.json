@@ -1,0 +1,960 @@
+{
+  "Scenario 1": [
+    {
+      "Sys Track No": {
+        "1": "-1"
+      },
+      "Track ID": {
+        "1": "FIGHTER (HGF)"
+      },
+      "Aircrafts": 1,
+      "Platform": {
+        "1": "Su-30"
+      },
+      "Origin": "Unknown",
+      "Date": "24-10-2022",
+      "Initial Time": "00:00:00",
+      "End Time": "00:20:00",
+      "Initial Speed": 350.0,
+      "Waypoints": {
+        "Latitude": [
+          29.41008,
+          30.79788
+        ],
+        "Longitude": [
+          67.07888,
+          71.55951
+        ],
+        "Speed": [
+          0.0,
+          0.0
+        ],
+        "Altitude": [
+          550.0,
+          550.0
+        ]
+      },
+      "Mode Info": {
+        "IFF Mode 1": {
+          "1": "-1"
+        },
+        "IFF Mode 2": {
+          "1": "-1"
+        },
+        "IFF Mode 3": {
+          "1": "-1"
+        },
+        "IFF Mode 6": {
+          "1": "-1"
+        },
+        "Call Sign": {
+          "1": "-1"
+        },
+        "ICAO Type": {
+          "1": "-1"
+        },
+        "Mode S": {
+          "1": "-1"
+        },
+        "Mode C Height": {
+          "1": "-1"
+        }
+      },
+      "Aircrafts Pos": {}
+    }
+  ],
+  "Scenario 2": [
+    {
+      "Sys Track No": {
+        "1": "-1"
+      },
+      "Track ID": {
+        "1": "FIGHTER (HGF)"
+      },
+      "Aircrafts": 1,
+      "Platform": {
+        "1": "Su-30"
+      },
+      "Origin": "Unknown",
+      "Date": "24-10-2022",
+      "Initial Time": "00:00:00",
+      "End Time": "00:30:00",
+      "Initial Speed": 350.0,
+      "Waypoints": {
+        "Latitude": [
+          29.9652,
+          30.71858
+        ],
+        "Longitude": [
+          67.91156,
+          74.33513
+        ],
+        "Speed": [
+          0.0,
+          0.0
+        ],
+        "Altitude": [
+          500.0,
+          500.0
+        ]
+      },
+      "Mode Info": {
+        "IFF Mode 1": {
+          "1": "-1"
+        },
+        "IFF Mode 2": {
+          "1": "-1"
+        },
+        "IFF Mode 3": {
+          "1": "-1"
+        },
+        "IFF Mode 6": {
+          "1": "-1"
+        },
+        "Call Sign": {
+          "1": "-1"
+        },
+        "ICAO Type": {
+          "1": "-1"
+        },
+        "Mode S": {
+          "1": "-1"
+        },
+        "Mode C Height": {
+          "1": "-1"
+        }
+      },
+      "Aircrafts Pos": {}
+    }
+  ],
+  "Scenario 3": [
+    {
+      "Sys Track No": {
+        "1": "-1",
+        "2": "-1"
+      },
+      "Track ID": {
+        "1": "FIGHTER (HGF)",
+        "2": "FIGHTER (HGF)"
+      },
+      "Aircrafts": 2,
+      "Platform": {
+        "1": "Su-30",
+        "2": "Su-30"
+      },
+      "Origin": "Unknown",
+      "Date": "27-10-2022",
+      "Initial Time": "00:00:00",
+      "End Time": "00:45:00",
+      "Initial Speed": 350.0,
+      "Waypoints": {
+        "Latitude": [
+          31.43231,
+          29.60833,
+          27.54645,
+          26.95167
+        ],
+        "Longitude": [
+          76.15911,
+          77.38831,
+          75.48503,
+          73.50244
+        ],
+        "Speed": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Altitude": [
+          500.0,
+          500.0,
+          500.0,
+          500.0
+        ]
+      },
+      "Mode Info": {
+        "IFF Mode 1": {
+          "1": "-1",
+          "2": "-1"
+        },
+        "IFF Mode 2": {
+          "1": "-1",
+          "2": "-1"
+        },
+        "IFF Mode 3": {
+          "1": "-1",
+          "2": "-1"
+        },
+        "IFF Mode 6": {
+          "1": "-1",
+          "2": "-1"
+        },
+        "Call Sign": {
+          "1": "-1",
+          "2": "-1"
+        },
+        "ICAO Type": {
+          "1": "-1",
+          "2": "-1"
+        },
+        "Mode S": {
+          "1": "-1",
+          "2": "-1"
+        },
+        "Mode C Height": {
+          "1": "-1",
+          "2": "-1"
+        }
+      },
+      "Aircrafts Pos": {
+        "1": {
+          "distance": 0,
+          "angle": 0
+        },
+        "2": {
+          "distance": 4.3,
+          "angle": 215
+        }
+      }
+    },
+    {
+      "Sys Track No": {
+        "1": "-1"
+      },
+      "Track ID": {
+        "1": "FIGHTER (HGF)"
+      },
+      "Aircrafts": 1,
+      "Platform": {
+        "1": "Su-30"
+      },
+      "Origin": "Unknown",
+      "Date": "27-10-2022",
+      "Initial Time": "00:00:00",
+      "End Time": "00:35:00",
+      "Initial Speed": 350.0,
+      "Waypoints": {
+        "Latitude": [
+          31.51161,
+          31.03579,
+          28.93426,
+          26.11899
+        ],
+        "Longitude": [
+          75.88154,
+          78.30029,
+          78.77611,
+          78.33995
+        ],
+        "Speed": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Altitude": [
+          500.0,
+          500.0,
+          500.0,
+          500.0
+        ]
+      },
+      "Mode Info": {
+        "IFF Mode 1": {
+          "1": "-1"
+        },
+        "IFF Mode 2": {
+          "1": "-1"
+        },
+        "IFF Mode 3": {
+          "1": "-1"
+        },
+        "IFF Mode 6": {
+          "1": "-1"
+        },
+        "Call Sign": {
+          "1": "-1"
+        },
+        "ICAO Type": {
+          "1": "-1"
+        },
+        "Mode S": {
+          "1": "-1"
+        },
+        "Mode C Height": {
+          "1": "-1"
+        }
+      },
+      "Aircrafts Pos": {}
+    }
+  ],
+  "Scenario 4": [
+    {
+      "Sys Track No": {
+        "1": "-1"
+      },
+      "Track ID": {
+        "1": "No Statement"
+      },
+      "Aircrafts": 1,
+      "Platform": {
+        "1": "Su-30"
+      },
+      "Origin": "Unknown",
+      "Date": "15-11-2022",
+      "Initial Time": "00:00:00",
+      "End Time": "",
+      "Initial Speed": 350.0,
+      "Waypoints": {
+        "Latitude": [
+          26.4362,
+          28.69635
+        ],
+        "Longitude": [
+          77.11074,
+          74.17652
+        ],
+        "Speed": [
+          350.0,
+          350.0
+        ],
+        "Altitude": [
+          0.0,
+          0.0
+        ]
+      },
+      "Mode Info": {
+        "IFF Mode 1": {
+          "1": "-1"
+        },
+        "IFF Mode 2": {
+          "1": "-1"
+        },
+        "IFF Mode 3": {
+          "1": "-1"
+        },
+        "IFF Mode 6": {
+          "1": "-1"
+        },
+        "Call Sign": {
+          "1": "-1"
+        },
+        "ICAO Type": {
+          "1": "-1"
+        },
+        "Mode S": {
+          "1": "-1"
+        },
+        "Mode C Height": {
+          "1": "-1"
+        }
+      },
+      "Aircrafts Pos": {}
+    }
+  ],
+  "Scenario 5": [
+    {
+      "Sys Track No": {
+        "1": "-1"
+      },
+      "Track ID": {
+        "1": "No Statement"
+      },
+      "Aircrafts": 1,
+      "Platform": {
+        "1": "Su-30"
+      },
+      "Origin": "Unknown",
+      "Date": "03-10-2022",
+      "Initial Time": "00:00:00",
+      "End Time": "00:01:00",
+      "Initial Speed": 350.0,
+      "Waypoints": {
+        "Latitude": [
+          25.06822,
+          27.09045,
+          31.33318
+        ],
+        "Longitude": [
+          75.44538,
+          77.78482,
+          76.0005
+        ],
+        "Speed": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Altitude": [
+          5000.0,
+          5000.0,
+          5000.0
+        ]
+      },
+      "Mode Info": {
+        "IFF Mode 1": {
+          "1": "-1"
+        },
+        "IFF Mode 2": {
+          "1": "-1"
+        },
+        "IFF Mode 3": {
+          "1": "-1"
+        },
+        "IFF Mode 6": {
+          "1": "-1"
+        },
+        "Call Sign": {
+          "1": "-1"
+        },
+        "ICAO Type": {
+          "1": "-1"
+        },
+        "Mode S": {
+          "1": "-1"
+        },
+        "Mode C Height": {
+          "1": "-1"
+        }
+      },
+      "Aircrafts Pos": {}
+    }
+  ],
+  "Scenario 6": [
+    {
+      "Sys Track No": {
+        "1": "-1"
+      },
+      "Track ID": {
+        "1": "FIGHTER (HGF)"
+      },
+      "Aircrafts": 1,
+      "Platform": {
+        "1": "Su-30"
+      },
+      "Origin": "Unknown",
+      "Date": "17-10-2022",
+      "Initial Time": "00:00:00",
+      "End Time": "00:25:00",
+      "Initial Speed": 350.0,
+      "Waypoints": {
+        "Latitude": [
+          30.63928,
+          31.69996,
+          33.46446,
+          34.15836,
+          34.85227
+        ],
+        "Longitude": [
+          71.64873,
+          72.56072,
+          72.4715,
+          72.4715,
+          73.19514
+        ],
+        "Speed": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Altitude": [
+          500.0,
+          500.0,
+          5005.0,
+          500.0,
+          500.0
+        ]
+      },
+      "Mode Info": {
+        "IFF Mode 1": {
+          "1": "-1"
+        },
+        "IFF Mode 2": {
+          "1": "-1"
+        },
+        "IFF Mode 3": {
+          "1": "-1"
+        },
+        "IFF Mode 6": {
+          "1": "-1"
+        },
+        "Call Sign": {
+          "1": "-1"
+        },
+        "ICAO Type": {
+          "1": "-1"
+        },
+        "Mode S": {
+          "1": "-1"
+        },
+        "Mode C Height": {
+          "1": "-1"
+        }
+      },
+      "Aircrafts Pos": {}
+    },
+    {
+      "Sys Track No": {
+        "1": "-1",
+        "2": "-1"
+      },
+      "Track ID": {
+        "1": "FIGHTER (HGF)",
+        "2": "FIGHTER (HGF)"
+      },
+      "Aircrafts": 2,
+      "Platform": {
+        "1": "Rafale",
+        "2": "Rafale"
+      },
+      "Origin": "Unknown",
+      "Date": "17-10-2022",
+      "Initial Time": "00:00:00",
+      "End Time": "00:30:00",
+      "Initial Speed": 350.0,
+      "Waypoints": {
+        "Latitude": [
+          32.00726,
+          35.29835,
+          36.32929,
+          35.37765,
+          33.79158
+        ],
+        "Longitude": [
+          72.63011,
+          72.51115,
+          74.61269,
+          72.78871,
+          72.78871
+        ],
+        "Speed": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Altitude": [
+          600.0,
+          600.0,
+          600.0,
+          600.0,
+          600.0
+        ]
+      },
+      "Mode Info": {
+        "IFF Mode 1": {
+          "1": "-1",
+          "2": "-1"
+        },
+        "IFF Mode 2": {
+          "1": "-1",
+          "2": "-1"
+        },
+        "IFF Mode 3": {
+          "1": "-1",
+          "2": "-1"
+        },
+        "IFF Mode 6": {
+          "1": "-1",
+          "2": "-1"
+        },
+        "Call Sign": {
+          "1": "-1",
+          "2": "-1"
+        },
+        "ICAO Type": {
+          "1": "-1",
+          "2": "-1"
+        },
+        "Mode S": {
+          "1": "-1",
+          "2": "-1"
+        },
+        "Mode C Height": {
+          "1": "-1",
+          "2": "-1"
+        }
+      },
+      "Aircrafts Pos": {
+        "1": {
+          "distance": 0,
+          "angle": 0
+        },
+        "2": {
+          "distance": 4.3,
+          "angle": 215
+        }
+      }
+    }
+  ],
+  "Scenario 7": [
+    {
+      "Sys Track No": {
+        "1": "-1"
+      },
+      "Track ID": {
+        "1": "FIGHTER (HGF)"
+      },
+      "Aircrafts": 1,
+      "Platform": {
+        "1": "Su-30"
+      },
+      "Origin": "Unknown",
+      "Date": "17-10-2022",
+      "Initial Time": "00:22:00",
+      "End Time": "00:45:00",
+      "Initial Speed": 350.0,
+      "Waypoints": {
+        "Latitude": [
+          33.67263,
+          31.92796,
+          29.54886
+        ],
+        "Longitude": [
+          73.06628,
+          71.75777,
+          68.7839
+        ],
+        "Speed": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Altitude": [
+          500.0,
+          500.0,
+          500.0
+        ]
+      },
+      "Mode Info": {
+        "IFF Mode 1": {
+          "1": "-1"
+        },
+        "IFF Mode 2": {
+          "1": "-1"
+        },
+        "IFF Mode 3": {
+          "1": "-1"
+        },
+        "IFF Mode 6": {
+          "1": "-1"
+        },
+        "Call Sign": {
+          "1": "-1"
+        },
+        "ICAO Type": {
+          "1": "-1"
+        },
+        "Mode S": {
+          "1": "-1"
+        },
+        "Mode C Height": {
+          "1": "-1"
+        }
+      },
+      "Aircrafts Pos": {}
+    },
+    {
+      "Sys Track No": {
+        "1": "-1"
+      },
+      "Track ID": {
+        "1": "FIGHTER (HGF)"
+      },
+      "Aircrafts": 1,
+      "Platform": {
+        "1": "Su-30"
+      },
+      "Origin": "Unknown",
+      "Date": "17-10-2022",
+      "Initial Time": "00:00:00",
+      "End Time": "00:30:00",
+      "Initial Speed": 350.0,
+      "Waypoints": {
+        "Latitude": [
+          35.61556,
+          35.17939,
+          32.8796,
+          29.94537
+        ],
+        "Longitude": [
+          73.5421,
+          72.70941,
+          72.63011,
+          69.25972
+        ],
+        "Speed": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Altitude": [
+          500.0,
+          500.0,
+          500.0,
+          500.0
+        ]
+      },
+      "Mode Info": {
+        "IFF Mode 1": {
+          "1": "-1"
+        },
+        "IFF Mode 2": {
+          "1": "-1"
+        },
+        "IFF Mode 3": {
+          "1": "-1"
+        },
+        "IFF Mode 6": {
+          "1": "-1"
+        },
+        "Call Sign": {
+          "1": "-1"
+        },
+        "ICAO Type": {
+          "1": "-1"
+        },
+        "Mode S": {
+          "1": "-1"
+        },
+        "Mode C Height": {
+          "1": "-1"
+        }
+      },
+      "Aircrafts Pos": {}
+    },
+    {
+      "Sys Track No": {
+        "1": "-1",
+        "2": "-1"
+      },
+      "Track ID": {
+        "1": "FIGHTER (HGF)",
+        "2": "FIGHTER (HGF)"
+      },
+      "Aircrafts": 2,
+      "Platform": {
+        "1": "Su-30",
+        "2": "Su-30"
+      },
+      "Origin": "Unknown",
+      "Date": "17-10-2022",
+      "Initial Time": "00:20:00",
+      "End Time": "00:45:00",
+      "Initial Speed": 350.0,
+      "Waypoints": {
+        "Latitude": [
+          35.34791,
+          33.93036,
+          31.98743,
+          30.73841,
+          32.4236
+        ],
+        "Longitude": [
+          73.11584,
+          72.52107,
+          71.37117,
+          73.59166,
+          74.41443
+        ],
+        "Speed": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Altitude": [
+          500.0,
+          500.0,
+          505.0,
+          5005.0,
+          50.0
+        ]
+      },
+      "Mode Info": {
+        "IFF Mode 1": {
+          "1": "-1",
+          "2": "-1"
+        },
+        "IFF Mode 2": {
+          "1": "-1",
+          "2": "-1"
+        },
+        "IFF Mode 3": {
+          "1": "-1",
+          "2": "-1"
+        },
+        "IFF Mode 6": {
+          "1": "-1",
+          "2": "-1"
+        },
+        "Call Sign": {
+          "1": "-1",
+          "2": "-1"
+        },
+        "ICAO Type": {
+          "1": "-1",
+          "2": "-1"
+        },
+        "Mode S": {
+          "1": "-1",
+          "2": "-1"
+        },
+        "Mode C Height": {
+          "1": "-1",
+          "2": "-1"
+        }
+      },
+      "Aircrafts Pos": {
+        "1": {
+          "distance": 0,
+          "angle": 0
+        },
+        "2": {
+          "distance": 4.3,
+          "angle": 215
+        }
+      }
+    },
+    {
+      "Sys Track No": {
+        "1": "-1"
+      },
+      "Track ID": {
+        "1": "FIGHTER (HGF)"
+      },
+      "Aircrafts": 1,
+      "Platform": {
+        "1": "Su-30"
+      },
+      "Origin": "Unknown",
+      "Date": "17-10-2022",
+      "Initial Time": "00:10:00",
+      "End Time": "00:30:00",
+      "Initial Speed": 350.0,
+      "Waypoints": {
+        "Latitude": [
+          27.92314,
+          29.86607,
+          33.55367
+        ],
+        "Longitude": [
+          67.91156,
+          70.92509,
+          71.95603
+        ],
+        "Speed": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Altitude": [
+          500.0,
+          50.0,
+          500.0
+        ]
+      },
+      "Mode Info": {
+        "IFF Mode 1": {
+          "1": "-1"
+        },
+        "IFF Mode 2": {
+          "1": "-1"
+        },
+        "IFF Mode 3": {
+          "1": "-1"
+        },
+        "IFF Mode 6": {
+          "1": "-1"
+        },
+        "Call Sign": {
+          "1": "-1"
+        },
+        "ICAO Type": {
+          "1": "-1"
+        },
+        "Mode S": {
+          "1": "-1"
+        },
+        "Mode C Height": {
+          "1": "-1"
+        }
+      },
+      "Aircrafts Pos": {}
+    }
+  ],
+  "Scenario 8": [
+    {
+      "Sys Track No": {
+        "1": "-1"
+      },
+      "Track ID": {
+        "1": "No Statement"
+      },
+      "Aircrafts": 1,
+      "Platform": {
+        "1": "Su-30"
+      },
+      "Origin": "Unknown",
+      "Date": "15-11-2022",
+      "Initial Time": "00:00:00",
+      "End Time": "00:00:50",
+      "Initial Speed": 350.0,
+      "Waypoints": {
+        "Latitude": [
+          25.36561,
+          27.5861,
+          28.6567
+        ],
+        "Longitude": [
+          73.34384,
+          75.16781,
+          73.5421
+        ],
+        "Speed": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Altitude": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "Mode Info": {
+        "IFF Mode 1": {
+          "1": "-1"
+        },
+        "IFF Mode 2": {
+          "1": "-1"
+        },
+        "IFF Mode 3": {
+          "1": "-1"
+        },
+        "IFF Mode 6": {
+          "1": "-1"
+        },
+        "Call Sign": {
+          "1": "-1"
+        },
+        "ICAO Type": {
+          "1": "-1"
+        },
+        "Mode S": {
+          "1": "-1"
+        },
+        "Mode C Height": {
+          "1": "-1"
+        }
+      },
+      "Aircrafts Pos": {}
+    }
+  ]
+}
