@@ -15,7 +15,7 @@ DIST_AREA = QgsDistanceArea()
 DIST_AREA.setEllipsoid('WGS84')
 NM_TO_M = QgsUnitTypes.fromUnitToUnitFactor(QgsUnitTypes.DistanceNauticalMiles, QgsUnitTypes.DistanceMeters)
 
-DELAY_TIME = 2000
+DELAY_TIME = 1000
 ########################################## PATH CONSTANTS #########################################################
 
 PATH_BORDER_SHP = "D:\\ScenarioGenratorQGIS\\Layers\\PakistanIBPolyline.shp"
