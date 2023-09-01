@@ -14,6 +14,7 @@ Before running the Flight Generator, make sure you have the following software a
 - **QGIS:** The Flight Generator relies on QGIS for geospatial data processing and visualization. Ensure that QGIS is properly installed on your system.
 
 - **Configurations:** Open the `config_parameters.py` file and customize the paths and settings according to your system requirements. This file contains essential parameters that the Flight Generator relies on for file locations and other configurations.
+- The software was developed for a 4k screen resolution so it may be out of proportion for other screen resolutions
 
 ## Usage
 1. Open QGIS.
