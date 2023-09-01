@@ -212,10 +212,10 @@ class Window(QMainWindow, Ui_MainPage):
                     if k > 0: 
                         dialog.path_table.insertRow(rowPos)
                     # Adding ats route points to path table
-                    dialog.path_table.setItem(k, 0, QTableWidgetItem(stopover_point))
-                    stopover = dialog.path_table.item(k, 0)
-                    stopover.setTextAlignment(QtCore.Qt.AlignCenter)
-                    stopover.setFont(font)
+                    # dialog.path_table.setItem(k, 0, QTableWidgetItem(stopover_point))
+                    # stopover = dialog.path_table.item(k, 0)
+                    # stopover.setTextAlignment(QtCore.Qt.AlignCenter)
+                    # stopover.setFont(font)
 
             # Loading fighter data
             else:
@@ -500,7 +500,7 @@ class AddGroup(QMainWindow):
         self.mode_s_value.setEnabled(False)
         self.mode_c_value.setEnabled(False)
         self.mode_3_value.setEnabled(False)
-         # Setting add formation button to disabled (enabled if aircrafts > 1)
+        # Setting add formation button to disabled (enabled if aircrafts > 1)
         self.add_formation_btn.setEnabled(False)
         self.aircraft_pos = {}
         self.aircraft_locations = {}
@@ -837,7 +837,7 @@ class AddGroup(QMainWindow):
         """
         current_tab = self.tabWidget.currentWidget().objectName()
         if current_tab == "fighter_tab":
-           try:
+            try:
                 
                 aircrafts = int(self.aircrafts.displayText())
                 # Checking if modes entered equate to the number of aircrafts
@@ -894,11 +894,10 @@ class AddGroup(QMainWindow):
 
                         # Closing window of current group
                         self.close()        
-                 
                 else:
                     save_error_dialog(self)
-           except:
-               save_error_dialog(self)
+            except:
+                save_error_dialog(self)
 
         else:
             try:
@@ -993,7 +992,7 @@ class AddGroup(QMainWindow):
 
     def get_modes(self, element):
         """
-           Gets the informaton from modes table
+            Gets the informaton from modes table
 
         Args:
             element (QTableWidget): modes table
@@ -1070,7 +1069,7 @@ class AddGroup(QMainWindow):
 
 class ComboPlatforms(QComboBox):
     """
-       Combination box widget 
+        Combination box widget 
     """
     def __init__(self, parent=None):
         super().__init__(parent=parent)
@@ -1270,7 +1269,6 @@ class PrintClickedPoint(QgsMapToolEmitPoint):
         self.streaming_layer.updateFields()
         self.streaming_layer.reload()
         self.canvas.refresh()
-      
         
 
 class MapCanvas(QMainWindow):
@@ -1353,7 +1351,6 @@ class MapCanvas(QMainWindow):
             self.heading_data_provider=self.heading_line_layer.dataProvider()
             self.heading_line_feat=QgsFeature()
             
-           
             # Loop for plotting coordinates
             for i in range (len(self.data_latitude)):
                 # If time has changed, add delay
@@ -1383,7 +1380,6 @@ class MapCanvas(QMainWindow):
                 self.line_geom = QgsGeometry.fromPolyline([QgsPoint(self.data_longitude[i], self.data_latitude[i]), QgsPoint(self.new_y, self.new_x)])
                 self.heading_line_feat.setGeometry(self.line_geom)
                 self.heading_data_provider.addFeature(self.heading_line_feat)
-               
                 self.heading_line_layer.reload()
                 self.canvas.refresh()
                 self.canvas.repaint()
@@ -1439,7 +1435,7 @@ class MapCanvas(QMainWindow):
 
     def save(self):  
         """
-           Function to save waypoints 
+            Function to save waypoints 
         """
         self.save_signal.emit()
         QgsProject.instance().removeAllMapLayers()
@@ -1449,7 +1445,7 @@ class MapCanvas(QMainWindow):
         
     def pan(self):
         """
-           Function to add pan feature
+            Function to add pan feature
         """
         if(self.actionPan.isChecked()):
             self.canvas.setMapTool(self.toolPan)
@@ -1476,7 +1472,7 @@ class MapCanvas(QMainWindow):
             
         self.canvas.refresh()
         self.canvas.repaint()
-      
+
     def toggleGrid(self):
         if self.actionToggleGrid.isChecked():
             self.canvas.addLayer(self.grid)

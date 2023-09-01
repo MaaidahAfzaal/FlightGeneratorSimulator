@@ -1,5 +1,3 @@
-import pandas as pd
-import numpy as np
 from qgis.core import *
 from qgis.gui import *
 from qgis.utils import *
@@ -560,8 +558,8 @@ TRACK_ID = {
 
 }
 
-CLIENT_IP = "192.168.1.120"
-SERVER_IP = "192.168.1.120"
+CLIENT_IP = "192.168.1.25"
+SERVER_IP = "192.168.1.25"
 CLIENT_PORT = 46725
 SERVER_PORT = 6004
 BUFFER_SIZE = 1000000
