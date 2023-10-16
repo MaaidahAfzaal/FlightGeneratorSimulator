@@ -38,6 +38,6 @@ This project is licensed under the [MIT License](LICENSE).
 Special thanks to the QGIS community and developers for their contributions to the geospatial software ecosystem.
 
 ## Contact
-For questions, issues, or feedback, please contact [Your Name](mailto:your.email@example.com).
+For questions, issues, or feedback, please contact maaidahqureshi915@gmail.com.
 
 Happy flying!
